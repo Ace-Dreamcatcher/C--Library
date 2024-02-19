@@ -1,0 +1,12 @@
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/bin/Debug/net7.0/Staff_Management_Library.deps.json
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/bin/Debug/net7.0/Staff_Management_Library.dll
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/bin/Debug/net7.0/Staff_Management_Library.pdb
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.csproj.AssemblyReference.cache
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.AssemblyInfoInputs.cache
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.AssemblyInfo.cs
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.csproj.CoreCompileInputs.cache
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.dll
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/refint/Staff_Management_Library.dll
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/Staff_Management_Library.pdb
+/Users/ioannis/Documents/GitHub/C--Library/Staff_Management_Library/Staff_Management_Library/obj/Debug/net7.0/ref/Staff_Management_Library.dll
